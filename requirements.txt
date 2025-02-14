@@ -1,0 +1,10 @@
+open_clip_torch
+h5py
+numpy
+soynlp
+fastapi
+python-multipart
+uvicorn
+pandas
+pillow
+matplotlib
